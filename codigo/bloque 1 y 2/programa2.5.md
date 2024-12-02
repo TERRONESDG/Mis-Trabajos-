@@ -17,5 +17,3 @@ print("Metodo de slicing/ rebanador")
 mi_nombre = "choto chorchis"
 print(mi_nombre [3])
 print(mi_nombre [12])
-
-print
