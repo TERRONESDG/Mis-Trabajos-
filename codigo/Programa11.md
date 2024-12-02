@@ -1,6 +1,5 @@
-#Programa.11  Analizar los operadores de comparaciÓn
-#Fecha de elaboraciÓn: 20210/10/18
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa.11  Analizar los operadores de comparaciÓn
+``` python
 
 #operadores de comparacion == , !=, >=, <=, >, <
 
