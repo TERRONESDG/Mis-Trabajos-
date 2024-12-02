@@ -1,7 +1,7 @@
-#Programa.5 La calculadora
-#Fecha de elaboraciÓn: 20210/10/15
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa.5 La calculadora
 
+
+```python
 num1 = int(input("Ingresa el primer valor:"))
 num2 = int(input("Ingres el vsegundo numero:"))
 suma = num1 + num2
