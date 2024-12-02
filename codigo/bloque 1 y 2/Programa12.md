@@ -1,7 +1,6 @@
-#Programa.COMPUERTAS OR Y AND
-#Fecha de elaboraciÓn: 20210/10/18
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa.COMPUERTAS OR Y AND
 
+```python
 print("Compuertas or")
 print(False or False)
 print(False or True)
@@ -15,3 +14,4 @@ print(True and False)
 print(True and True)
 print("\n")
 
+```
