@@ -1,7 +1,6 @@
-#Programa.5  comparación
-#Fecha de elaboraciÓn: 20210/10/23
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa.5  comparación
 
+```python
 print("perro" == "perro")
 print("perro" != "gato") 
 print("Aguascalientes" < "Zacatecas") 
