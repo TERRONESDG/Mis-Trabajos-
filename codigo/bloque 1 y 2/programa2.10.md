@@ -1,7 +1,7 @@
-#Programa.10 Revisar si puedes ver una pelicula y eres mayor de edad 
-#Fecha de elaboraciÓn: 20210/10/22
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa 10 Revisar si puedes ver una pelicula y eres mayor de edad 
 
+
+```python
 edad = int(input("¿cuantos años tienes?"))
 compra = int(input("Compraste la pelicula?\n0-NO\n1-SI\n"))
 
