@@ -1,8 +1,7 @@
-#Programa3. programa que imprima 3 datos diferentes, dias de la semana,Triangulo,conversiones
-#Fecha de elaboraciÓn: 20210/10/14
-#Elaborado por: ANDREA GUADALUPE JIMENEZ CARDENAS
+# Programa3. programa que imprima 3 datos diferentes, dias de la semana,Triangulo,conversiones
 
 
+```python
 #imprimir el numero de dias en una semana
 print ("Cuantos dia tiene la semana?")
 print (7)
@@ -15,4 +14,4 @@ print ("triangulo")
 #tipo de dato flotante(float)
 print ("A cuantos metros equivale 250 cm?")
 print (2.5) 
-
+```
