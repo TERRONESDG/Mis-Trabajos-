@@ -1,5 +1,5 @@
-# Programa.2 Programa que si  lupita o sol van a la fiesta, entonces no hay fiesta
-```python
+Programa 2 Programa que si  lupita o sol van a la fiesta, entonces no hay fiesta
+
 #|A|B||NOT(A OR B)|
 #|0|1||1
 
