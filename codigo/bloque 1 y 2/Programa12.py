@@ -1,6 +1,6 @@
-# Programa.COMPUERTAS OR Y AND
+ Programa COMPUERTAS OR Y AND
 
-```python
+
 print("Compuertas or")
 print(False or False)
 print(False or True)
@@ -14,4 +14,4 @@ print(True and False)
 print(True and True)
 print("\n")
 
-```
+
