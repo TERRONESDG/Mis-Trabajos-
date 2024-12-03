@@ -9,7 +9,7 @@ En la línea 1 usamos la función ``input()``.
 nombre = input("Ingresa tu nombre:")
 ```
 Esta función sirve para pedir al usuario que ingrese un dato por teclado. 
-El texto dentro de los paréntesis ``("Ingresa tu nombre:")`` es un mensaje que se muestra al usuario para indicarle qué debe ingresar.
+El texto dentro de los paréntesis `("Ingresa tu nombre:")` es un mensaje que se muestra al usuario para indicarle qué debe ingresar.
 
 
 En la línea 2 usamos la función ``print()``. 
