@@ -1,7 +1,7 @@
-# Programa.9  variables
+Programa 9  variables
 
 
-```python
+
 num = 38
 num = num + 1
 
