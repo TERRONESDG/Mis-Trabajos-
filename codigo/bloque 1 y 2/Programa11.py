@@ -1,5 +1,5 @@
 # Programa.11  Analizar los operadores de comparaciÓn
-``` python
+
 
 #operadores de comparacion == , !=, >=, <=, >, <
 
@@ -38,6 +38,7 @@ print ("Operador MENOR (<)")
 print(8<7) #respuesta false
 print(8<5) #respuesta false
 print(7.0<5) #respuesta false
+
 print("\n") #salto de linea y retorno de carro
 
 print("\u263A" * 20)
