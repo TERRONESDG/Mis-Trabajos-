@@ -1,7 +1,6 @@
-# Programa.7  "el bar"
+ Programa 7  "el bar"
 
 
-``` python
 edad = int(input("Ingresa tu edad: "))
 if   edad >=18:
    print("Puede ingresar al bar" )
