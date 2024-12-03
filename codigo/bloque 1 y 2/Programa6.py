@@ -1,6 +1,6 @@
-# Programa 6. Solicitar la base y la altura de un triangulo
+Programa 6. Solicitar la base y la altura de un triangulo
 
-```python
+
 base = float (input("Introduce la base del triangulo:"))
 altura = float (input ("Introduce la altura del triangulo:"))
 
