@@ -1,7 +1,7 @@
-# Programa 10 Revisar si puedes ver una pelicula y eres mayor de edad 
+Programa 10 Revisar si puedes ver una pelicula y eres mayor de edad 
 
 
-```python
+
 edad = int(input("¿cuantos años tienes?"))
 compra = int(input("Compraste la pelicula?\n0-NO\n1-SI\n"))
 
