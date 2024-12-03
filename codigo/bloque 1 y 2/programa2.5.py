@@ -1,6 +1,6 @@
-# Programa.5  comparación
+Programa 5  comparación
 
-```python
+
 print("perro" == "perro")
 print("perro" != "gato") 
 print("Aguascalientes" < "Zacatecas") 
