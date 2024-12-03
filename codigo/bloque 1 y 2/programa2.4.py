@@ -1,6 +1,6 @@
-# Programa.4  programa que calcula los impuestos y dar un valor
+Programa 4  programa que calcula los impuestos y dar un valor
 
-```python
+
 def calcular_impuesto(valor, tasa_impuesto):
   impuesto = valor * (tasa_impuesto / 100)
   return impuesto
