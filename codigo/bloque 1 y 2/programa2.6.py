@@ -1,6 +1,6 @@
-# Programa.6 Word = "hamster"
+Programa 6 Word = "hamster"
 
-```python
+
 word="hamster"
 print(word[-1]) #imprime r por comienxo de derecho a izquierdo en negativo
 print(word[1:-1]) #imprime amster
