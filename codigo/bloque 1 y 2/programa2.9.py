@@ -1,6 +1,6 @@
-# Programa 9 programa que calcule el costo total de un numero de articulos
+Programa 9 programa que calcule el costo total de un numero de articulos
 
-``` python
+
 cantidad = int (input ("¿Cuantos articulos compro?"))
 
 if cantidad >3 :
