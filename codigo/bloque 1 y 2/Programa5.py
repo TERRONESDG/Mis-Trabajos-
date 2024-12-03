@@ -1,7 +1,7 @@
-# Programa.5 La calculadora
+ Programa 5. La calculadora
 
 
-```python
+
 num1 = int(input("Ingresa el primer valor:"))
 num2 = int(input("Ingres el vsegundo numero:"))
 suma = num1 + num2
