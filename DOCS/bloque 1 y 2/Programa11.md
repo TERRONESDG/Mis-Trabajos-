@@ -82,3 +82,34 @@ print("Operador MENOR (<)")
 print("\u263A" * 20)
 ```
 Imprime el símbolo ☺ 20 veces
+
+## Explicación de los operadores:
+
+``==`` (Igualdad):
+
+Compara si dos valores son iguales. Retorna ``True`` si son iguales y ``False`` si no lo son.
+
+
+``!=`` (Desigualdad):
+
+Compara si dos valores son diferentes. Retorna ``True`` si son diferentes y ``False`` si son iguales.
+
+``>=`` (Mayor o igual):
+
+Compara si el valor de la izquierda es mayor o igual que el de la derecha. Retorna ``True`` si la condición es verdadera, ``False`` si no lo es.
+
+``<=`` (Menor o igual):
+
+Compara si el valor de la izquierda es menor o igual que el de la derecha. Retorna ``True`` si la condición es verdadera, ``False`` si no lo es.
+
+``>`` (Mayor que):
+
+Compara si el valor de la izquierda es mayor que el de la derecha. Retorna ``True`` si es mayor, ``False`` si no lo es.
+
+``<`` (Menor que):
+
+Compara si el valor de la izquierda es menor que el de la derecha. Retorna ``True`` si es menor, ``False`` si no lo es.
+
+``\u263A`` (Símbolo de cara sonriente):
+
+Es un carácter Unicode que representa una cara sonriente (☺). La expresión ``\u263A * 20`` repite el símbolo 20 veces.
