@@ -1,7 +1,7 @@
-# Programa 8  calificacione aprobado o desaprobado
+Programa 8  calificacione aprobado o desaprobado
 
 
-``` python
+
 num1 = float(input("ingresa tu primer calificación:"))
 num2 = float(input("ingresa tu segunda calificación:"))
 num3 = float(input("ingresa tu tercera calificación:"))
