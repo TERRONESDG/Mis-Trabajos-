@@ -1,6 +1,6 @@
 # Programa 3_11
-# Agregando Elementos a una Lista con `.append()`
-
+Agregando Elementos a una Lista con `.append()`
+# Expicación del programa
 En Python, el método `.append()` se utiliza para agregar un único elemento al final de una lista. Es una forma sencilla y eficiente de añadir elementos sin necesidad de especificar el índice donde se debe insertar el elemento.
 
 ## Ejemplo de Agregar un Elemento a una Lista:
