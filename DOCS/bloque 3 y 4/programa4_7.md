@@ -32,7 +32,7 @@ En cada iteración, se llama a la función ``operaciones`` con los valores actua
 
 Luego, los valores de ``num1`` y ``num2`` se duplican (se multiplican por 2) para la siguiente iteración.
 Ejemplo de Salida
-## tabla de iteracion 
+## Tabla de iteracion 
 
 | Iteración | num1 | num2 | Suma  | Resta | Multiplicación | División | Módulo |
 |-----------|------|------|-------|-------|-----------------|----------|--------|
