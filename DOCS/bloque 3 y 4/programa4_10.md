@@ -21,6 +21,17 @@ for i in range(2, int(math.sqrt(numero)) + 1):
     if numero % i == 0:
         return False
 ```
+### Tabla de iteración 
+| Iteración | i   | número % i | ¿Es divisible? | ¿Es primo? |
+|-----------|-----|------------|----------------|------------|
+|     1     |  2  |     1      |      No        |   True     |
+|     2     |  3  |     1      |      No        |   True     |
+|     3     |  4  |     1      |      No        |   True     |
+|     4     |  5  |     4      |      No        |   True     |
+|     5     |  6  |     1      |      No        |   True     |
+|     6     |  7  |     0      |      Sí        |   Fals
+
+
 Este bloque de código usa un bucle for para verificar si el número es divisible por algún número entre 2 y la raíz cuadrada del número (sqrt(numero)). ¿Por qué hasta la raíz cuadrada? Porque si un número tiene un divisor mayor que su raíz cuadrada, entonces también tendría uno menor, por lo que no es necesario verificar más allá de la raíz cuadrada.
 
 Si el número es divisible por algún valor de i (es decir, numero % i == 0), entonces no es un número primo, y la función retorna False.
